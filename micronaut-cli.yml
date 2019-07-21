@@ -1,5 +1,0 @@
-profile: service
-defaultPackage: rakusushi
----
-testFramework: spock
-sourceLanguage: java
