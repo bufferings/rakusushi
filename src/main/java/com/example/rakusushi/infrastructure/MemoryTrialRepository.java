@@ -1,7 +1,7 @@
-package com.example.rakusushi.trial;
+package com.example.rakusushi.infrastructure;
 
-import com.example.rakusushi.trial.domain.model.Trial;
-import com.example.rakusushi.trial.domain.model.TrialRepository;
+import com.example.rakusushi.domain.model.Trial;
+import com.example.rakusushi.application.repository.TrialRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository

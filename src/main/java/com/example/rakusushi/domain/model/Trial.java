@@ -1,4 +1,4 @@
-package com.example.rakusushi.trial.domain.model;
+package com.example.rakusushi.domain.model;
 
 /**
  * とらいあるモデル

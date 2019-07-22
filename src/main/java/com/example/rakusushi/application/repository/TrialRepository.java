@@ -1,4 +1,6 @@
-package com.example.rakusushi.trial.domain.model;
+package com.example.rakusushi.application.repository;
+
+import com.example.rakusushi.domain.model.Trial;
 
 /**
  * とらいあるリポジトリー
